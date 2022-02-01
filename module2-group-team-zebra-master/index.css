@@ -1,0 +1,23 @@
+body
+{
+    background-color: lightgrey;
+}
+
+nav{
+    font-size: 30px;
+    padding: 5px;
+}
+
+.content{
+    position: relative;
+    float: left;
+    left: 20%;
+    width: 65%;
+    font-size: 15px;
+    padding-top: 30px;
+} 
+
+
+#navlabel{
+    font-size: 15px;
+} 

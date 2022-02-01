@@ -1,0 +1,11 @@
+.box{
+    position: relative;
+    float: left;
+    left: 20%;
+    width: 65%;
+    font-size: 15px;
+    padding-top: 60px;
+}
+body{
+    background-color: skyblue;
+}
